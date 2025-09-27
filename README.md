@@ -180,7 +180,7 @@ joker-jailbreak/
 
 ## Development
 
-The application follows the Joker Jailbreak rules exactly as described. The backend implements the core game logic with proper validation, and the frontend provides an intuitive interface for playing the game.
+The application follows the Joker Jailbreak rules. The backend implements the core game logic with proper validation, and the frontend provides an intuitive interface for playing the game.
 
 ### Key Implementation Details
 
